@@ -2,11 +2,11 @@
 
 # Module 1 - Day 9
 
+## Lab
 
-## Lab 
-
-[LAB |Memory game](https://github.com/ironhack-labs/lab-javascript-memory-game)
-
+[LAB | Memory game](https://github.com/ironhack-labs/lab-javascript-memory-game)
+[BONUS LAB | Race Car](https://github.com/ironhack-labs/lab-canvas-race-car)
+[BONUS LAB | Flappy Birds](https://github.com/ironhack-labs/lab-canvas-flappybirds)
 
 ## Class
 
@@ -14,15 +14,13 @@
 - CANVAS | Styliing Text Images
 - CANVAS | Basic Animations
 
-
 ## Self Guided
 
 Free
 
-## Assesment 
+## Assesment
 
 [DOM Manipulation](https://my.ironhack.com/lms/courses/course-v1:IRONHACK+WDFT52+202105_BCN/modules/ironhack-course-chapter_2/units/ironhack-course-chapter_2-sequential_3-vertical_6)
-
 
 ## Extra Resources
 
